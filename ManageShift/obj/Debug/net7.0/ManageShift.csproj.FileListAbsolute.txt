@@ -1,0 +1,15 @@
+/Users/baglan/Projects/ShiftLogger/ManageShift/bin/Debug/net7.0/ManageShift
+/Users/baglan/Projects/ShiftLogger/ManageShift/bin/Debug/net7.0/ManageShift.deps.json
+/Users/baglan/Projects/ShiftLogger/ManageShift/bin/Debug/net7.0/ManageShift.runtimeconfig.json
+/Users/baglan/Projects/ShiftLogger/ManageShift/bin/Debug/net7.0/ManageShift.dll
+/Users/baglan/Projects/ShiftLogger/ManageShift/bin/Debug/net7.0/ManageShift.pdb
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.csproj.AssemblyReference.cache
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.AssemblyInfoInputs.cache
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.AssemblyInfo.cs
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.csproj.CoreCompileInputs.cache
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.dll
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/refint/ManageShift.dll
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.pdb
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ManageShift.genruntimeconfig.cache
+/Users/baglan/Projects/ShiftLogger/ManageShift/obj/Debug/net7.0/ref/ManageShift.dll
